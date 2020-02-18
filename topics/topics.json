@@ -1,14 +1,44 @@
 [
-    {
-        "id": 1,
-        "title": "UML Use Case",
-        "description": "Диаграмма прецедента",
-        "preview": "img/use-case-diagram.png"
-    },
-    {
-        "id": 2,
-        "title": "UML Class",
-        "description": "Диаграмма классов",
-        "preview": "img/class-diagram.png"
-    }
+{
+"id": 1,
+"title": "Лабораторная работа №1",
+"description": "Диаграмма прецедента",
+"preview": "https://3.bp.blogspot.com/-zWYSfXWuBos/U8zLhBT2SWI/AAAAAAAAVvQ/chATRVlWPss/s1600/%D0%9E%D0%B4%D0%B8%D0%BD.gif"
+},
+{
+"id": 2,
+"title": "Лабораторная работа №2",
+"description": "Диаграмма классов",
+"preview": "https://1.bp.blogspot.com/-Btpkwq1MZF0/U8zLjFR1fuI/AAAAAAAAVvY/vVNEQWtzWHU/s1600/%D0%94%D0%B2%D0%B0.gif"
+},
+{
+"id": 3,
+"title": "Лабораторная работа №3",
+"description": "Диаграмма классов",
+"preview": "http://1.bp.blogspot.com/-vvDkT2Vbt2o/U8zLjVsCFZI/AAAAAAAAVvc/VL88ebsKlqY/s1600/%D0%A2%D1%80%D0%B8.gif"
+},
+{
+"id": 4,
+"title": "Лабораторная работа №4",
+"description": "Диаграмма классов",
+"preview": "https://1.bp.blogspot.com/-aT2ETi2dts4/U8zLmNQgkAI/AAAAAAAAVvo/EbmmWZM7K4I/s1600/%D0%A7%D0%B5%D1%82%D1%8B%D1%80%D0%B5.gif"
+},
+{
+"id": 5,
+"title": "Лабораторная работа №5",
+"description": "Диаграмма классов",
+"preview": "http://2.bp.blogspot.com/-aIL9DnY718A/U8zLpoDrWoI/AAAAAAAAVvw/-LJjsrKtuLk/s1600/%D0%9F%D1%8F%D1%82%D1%8C.gif"
+},
+{
+"id": 6,
+"title": "Лабораторная работа №6",
+"description": "Диаграмма классов",
+"preview": "http://4.bp.blogspot.com/-PgooqitCYAQ/U8zLp4JWNzI/AAAAAAAAVv0/vlhvD_NLbnE/s1600/%D0%A8%D0%B5%D1%81%D1%82%D1%8C.gif"
+},
+{
+"id": 7,
+"title": "Лабораторная работа №7",
+"description": "Диаграмма классов",
+"preview": "http://1.bp.blogspot.com/-yUQszbSrKIg/U8zLrofUZVI/AAAAAAAAVwA/qmYE8COXRns/s1600/%D0%A1%D0%B5%D0%BC%D1%8C.gif"
+}
 ]

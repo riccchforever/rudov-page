@@ -6,7 +6,7 @@
             "data": [
                 {
                     "text": "Разработка диаграммы",
-                    "class": "md-title"
+                    "class": "md-headline"
                 }
             ]
         },
@@ -39,7 +39,7 @@
             "data": [
                 {
                     "text": "Постусловия",
-                    "class": "md-title"
+                    "class": "md-headline"
                 }
             ]
         },

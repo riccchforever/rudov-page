@@ -1,12 +1,12 @@
 {
-    "title": "UML Use Case",
+    "title": "Лабораторная работа №1. Разметка личной страницы, разработка UML диаграммы прецедентов.",
     "items": [
         {
             "type": "text",
             "data": [
                 {
-                    "text": "Разработка диаграммы",
-                    "class": "md-headline"
+                    "text": "1. Идентификатор прецедента",
+                    "class": "md-title"
                 }
             ]
         },
@@ -14,11 +14,16 @@
             "type": "text",
             "data": [
                 {
-                    "text": "Диаграмма создана с помощью "
-                },
+                    "text": "Система для исследования методов сортировки массивов и их сравнительного анализа"
+                }
+            ]
+        },
                 {
-                    "text": "PlantUML",
-                    "link": "https://plantuml.com"
+            "type": "text",
+            "data": [
+                {
+                    "text": "2. Название прецедента",
+                    "class": "md-title"
                 }
             ]
         },
@@ -26,20 +31,46 @@
             "type": "text",
             "data": [
                 {
-                    "text": "PlantUML is used to draw UML diagrams, using a simple and human readable text description. Be careful, because it does not prevent you from drawing inconsistent diagrams (such as having two classes inheriting from each other, for example). So it's more a drawing tool than a modeling tool."
+                    "text": "Программный продукт, способный доказать преимущество того или иного метода сортировки массивов"
+                }
+            ]
+        },
+                {
+            "type": "text",
+            "data": [
+                {
+                    "text": "3.  Контекст",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Разработка программного продукта"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "4. Участники (actors) и цели (goals)",
+                    "class": "md-title"
                 }
             ]
         },
         {
             "type": "image",
-            "data": "img/use-case-diagram.png"
+            "data": "https://github.com/Hoshi089/v.yakubova/blob/master/actorsgoals.PNG?raw=true.png?raw=true"
         },
         {
             "type": "text",
             "data": [
                 {
-                    "text": "Постусловия",
-                    "class": "md-headline"
+                    "text": "5. Предусловия",
+                    "class": "md-title"
                 }
             ]
         },
@@ -47,14 +78,96 @@
             "type": "list",
             "data": [
                 [{
-                    "text": "сформирована личная страница с использованием HTML, CSS, JS"
+                    "text": "Директор компании сформировал идею и выдвинул требования"
                 }],
                 [{
-                    "text": "на личной странице зарезервированы места для описания результатов всех следующих лабораторных работ"
+                    "text": "Менеджер передал требования директора разработчику"
                 }],
                 [{
-                    "text": "ссылка на личную страницу записана в списке группы"
+                    "text": "Разработчик имеет необходимый уровень подготовки для работы над проектом"
+                }],
+                [{
+                    "text": "Средства разработки установлены на ПК разработчика"
+                }],
+                [{
+                    "text": "Основные участники ознакомлены с методами сортировки массивов"
                 }]
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "6. Постусловия",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "list",
+            "data": [
+                [{
+                    "text": "Информационная система разработана и сдана в эксплуатацию в срок"
+                }],
+                [{
+                    "text": "Ресурсы не превышены"
+                }],
+                [{
+                    "text": "Заказчик доволен"
+                }]
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "7. Основной поток",
+                    "class": "md-title"
+                }
+            ]
+        },
+                {
+            "type": "image",
+            "data": "https://github.com/Hoshi089/v.yakubova/blob/master/potok.PNG?raw=true"
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "8. Исключения",
+                    "class": "md-title"
+                }
+            ]
+        },
+               {
+            "type": "list",
+            "data": [
+                [{
+                    "text": "Разработчик не выполнил работу в срок"
+                }],
+                [{
+                    "text": "Заказчик отменил требования, расторгнул договор"
+                }]
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "9. Альтернативы",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "list",
+            "data": [
+              [{
+                  "text": "Обновились макеты"
+              }],
+              [{
+                  "text": "Заказчик запросил доработки"
+              }]
             ]
         }
     ]
